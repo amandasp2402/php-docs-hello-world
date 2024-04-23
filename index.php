@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Bem vindo a Nalu Platters";
